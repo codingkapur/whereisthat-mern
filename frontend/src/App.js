@@ -23,9 +23,6 @@ function App() {
 
         <Redirect to="/" />
       </Switch>
-      <div className="App">
-        <h1>Hello MERN</h1>
-      </div>
     </Router>
   );
 }
